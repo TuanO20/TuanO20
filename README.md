@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a senior student at University of Information Technology. <br>My enthusiasm is learning and working as a Blockchain developer.<br>
+I am a blockchain developer specializing in smart contract development with Move (Sui, Aptos) and Solidity
 
 
 ## 🌐 Socials:
